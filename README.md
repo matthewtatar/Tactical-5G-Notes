@@ -1,1 +1,2 @@
-# Tactical-5G-NotesResearching 5G slicing and resiliency.
+# Tactical-5G-Notes
+# Researching 5G slicing and resiliency.
