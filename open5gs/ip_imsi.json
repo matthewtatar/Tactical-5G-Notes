@@ -1,0 +1,9 @@
+{
+  "10.45.0.2": {
+    "granted_at": 1767396826.5591726,
+    "ipset": "ssg1_ips",
+    "ssg_label": "SSG-1",
+    "subscriber_id": "001010000143841",
+    "ttl": 600
+  }
+}
